@@ -1,4 +1,5 @@
 Human Activity Recognition using Deep Learning
+This project is presented as final project of USFQ Deep Learning course in Master of Artificial Intelligence by Guillermo Fernandez
 
 Overview
 
@@ -12,7 +13,6 @@ The project compares three representative deep learning architectures:
 
 All models are trained and evaluated under the same preprocessing and experimental conditions to provide a fair comparison between classification performance and computational efficiency.
 
-⸻
 
 Project Objectives
 
