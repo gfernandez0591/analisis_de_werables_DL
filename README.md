@@ -1,9 +1,10 @@
-Human Activity Recognition using Deep Learning
+**Human Activity Recognition using Deep Learning**
+
 This project is presented as final project of USFQ Deep Learning course in Master of Artificial Intelligence by Guillermo Fernandez
 
 Overview
 
-This repository presents a complete deep learning pipeline for Human Activity Recognition (HAR) using smartphone inertial sensor data from the KU-HAR dataset.
+This repository presents a complete deep learning pipeline for Human Activity Recognition (HAR) using smartphone inertial sensor data from the KU-HAR dataset from kaggle: https://www.kaggle.com/datasets/niloy333/kuhar
 
 The project compares three representative deep learning architectures:
 
@@ -14,7 +15,7 @@ The project compares three representative deep learning architectures:
 All models are trained and evaluated under the same preprocessing and experimental conditions to provide a fair comparison between classification performance and computational efficiency.
 
 
-Project Objectives
+**Project Objectives**
 
 The main objective of this project is to investigate the effectiveness of different deep learning architectures for recognizing daily human activities from multivariate inertial sensor signals.
 
